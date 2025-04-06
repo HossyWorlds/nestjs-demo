@@ -7,5 +7,5 @@
 - https://qiita.com/to3izo/items/9be3c419c9b66e131565
 
 ## 環境構築
-以下を参考にした
+以下の通りにやった。なんの捻りもない
 https://qiita.com/tsuyuni/items/95551eb3d71be4ae79c8
