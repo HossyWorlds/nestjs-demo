@@ -9,3 +9,6 @@
 ## 環境構築
 以下の通りにやった。なんの捻りもない
 https://qiita.com/tsuyuni/items/95551eb3d71be4ae79c8
+
+## エンドポイント
+http://localhost:8000//
